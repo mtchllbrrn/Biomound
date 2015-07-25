@@ -4,6 +4,6 @@ Biomound is a computer model simulating the evolution of desert topography. The 
 
 See it in action [here](https://www.youtube.com/watch?v=J-9fBjt0ypM).
 
-For more information, [check out my thesis](#).
+For more information, [check out my thesis](http://bit.ly/1crwt5E).
 
 This model was built with [MATLAB](http://www.mathworks.com/products/matlab/).
